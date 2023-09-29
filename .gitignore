@@ -1,4 +1,4 @@
 *.csv
 !a.csv
-results/
+results/*
 !results/b.out
